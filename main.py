@@ -9,4 +9,4 @@ first_name = random_first_name.replace('\n', ' ')
 
 full_name = first_name + random_last_name
 
-print("Target:", full_name, "\nReason: ", random_reason)
+print("Target:", full_name, "\nReason:", random_reason)
